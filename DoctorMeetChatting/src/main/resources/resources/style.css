@@ -1,0 +1,16 @@
+#name-from{
+height: 100vh;
+}
+body{
+    color:purple;
+    background-size:cover;
+  background-repeat:no-repeat;
+  background-position:center center;
+ }
+#h11{
+	color:white;
+	text-align: center
+}
+#h1{
+	color:white 
+}
